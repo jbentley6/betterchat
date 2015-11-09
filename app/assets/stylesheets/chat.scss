@@ -1,0 +1,21 @@
+.chat-panel{
+  max-width: 1200px;
+  height:400px;
+  overflow-y: scroll;
+}
+
+.small-top-margin{
+  margin-top: 30px;
+}
+
+#chat-list{
+  list-style-type: none;
+
+  li{
+    padding-top: 5px;
+  }
+}
+
+#count{
+  float: right;
+}
